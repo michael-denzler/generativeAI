@@ -10,6 +10,19 @@ With LM Studio, you can ...
 
 URL: https://lmstudio.ai
 
+* Myst App (Mac, Linux, Win)
+
+Use offline models like Llama 3, Mixtral, Qwen, LlaVa, Gemma, Command R+, or online models like GPT 4, Gemini, Mistral, Groq, Claude, and more in an unified easy to use interface.
+Msty is offline-first but you can also easily use popular online models. You can even mix and match them.
+
+URL: https://msty.app
+
+* DrawThings (iOS, Mac)
+
+AI-assisted Image Generation in Your Pocket.
+Based on popular Stable Diffusion models, Draw Things helps you create images you have in mind in minutes rather than days. It is free, runs everything 100% offline on your device to preserve your privacy.
+
+URL: https://drawthings.ai
 
 # List of Providers
 
