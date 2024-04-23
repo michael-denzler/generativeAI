@@ -32,13 +32,13 @@ URL: https://mindmac.app
 
 * Sogni (Mac, iOS)
 
-- Capture the essence of your dreams in high-definition perfection.
-- On-device, limitless image generation:
-- Harness the power of Stable Diffusion and other AI models, all processed locally on your device. Immerse yourself in cutting-edge AI art generation, offering rapid performance and delivering stunning results that set Sogni apart from other apps that rely on server-based models.
-- Transform text descriptions into mesmerizing visual masterpieces.
-- Set any image as a Guide Image and ControlNet reference image to generate variations.
-- Text-to-video, image-to-video, video-to-video: Set any image or video as a Guide Image and ControlNet to generate animations.
-- See result changes as you type your prompt, adjust the Guidance Scale, switch styles, etc. when working with LCM, SDXL-Turbo or SDXL-Lightning models.
+Capture the essence of your dreams in high-definition perfection.
+On-device, limitless image generation:
+Harness the power of Stable Diffusion and other AI models, all processed locally on your device. Immerse yourself in cutting-edge AI art generation, offering rapid performance and delivering stunning results that set Sogni apart from other apps that rely on server-based models.
+Transform text descriptions into mesmerizing visual masterpieces.
+Set any image as a Guide Image and ControlNet reference image to generate variations.
+Text-to-video, image-to-video, video-to-video: Set any image or video as a Guide Image and ControlNet to generate animations.
+See result changes as you type your prompt, adjust the Guidance Scale, switch styles, etc. when working with LCM, SDXL-Turbo or SDXL-Lightning models.
 
 URL: https://www.sogni.pro
 
