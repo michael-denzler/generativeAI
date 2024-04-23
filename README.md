@@ -73,6 +73,11 @@ Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi
 
 URL: https://github.com/lobehub/lobe-chat
 
+* Suno (Web Service)
+
+Create AI generated Music with Suno
+
+URL: https://suno.com
 
 # List of Providers
 
