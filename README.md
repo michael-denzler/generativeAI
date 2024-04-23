@@ -42,6 +42,36 @@ See result changes as you type your prompt, adjust the Guidance Scale, switch st
 
 URL: https://www.sogni.pro
 
+* Ollama (Mac, Linux, Win)
+
+Get up and running with large language models.
+Run Llama 3, Mistral, Gemma, and other models. Customize and create your own.
+
+URL: https://ollama.com
+
+* TypingMind (Web App)
+
+chat frontend UI for ChatGPT, Gemini, Claude, and more.
+
+https://www.typingmind.com
+
+* Big-AGI (Web App)
+
+Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
+
+URL: https://github.com/enricoros/big-agi
+
+* ChatPad (Web App)
+
+Not just another ChatGPT user-interface!
+
+URL: https://github.com/deiucanta/chatpad
+
+* Lobe Chat (Web App)
+
+Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+
+URL: https://github.com/lobehub/lobe-chat
 
 
 # List of Providers
