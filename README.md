@@ -81,10 +81,10 @@ URL: https://suno.com
 
 # List of Providers
 
-OpenAI - https://openai.com
-Midjourney - https://www.midjourney.com
-Stable Diffusion - https://stability.ai
-Copilot - https://copilot.microsoft.com
-Google Gemini - https://gemini.google.com/app
+* OpenAI - https://openai.com
+* Midjourney - https://www.midjourney.com
+* Stable Diffusion - https://stability.ai
+* Copilot - https://copilot.microsoft.com
+* Google Gemini - https://gemini.google.com/app
 
 
