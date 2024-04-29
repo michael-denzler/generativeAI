@@ -1,3 +1,8 @@
+# README
+
+This repo is a collection of links to AI Tools and AI Providers.
+In addition you will find some code examples for different use cases (see bottom of this file for example description)
+
 # List of Tools
 
 * LM Studio (Mac, Linux, Win)
