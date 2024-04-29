@@ -114,3 +114,5 @@ The example script that use the example.png to describe with AI what is seen on 
 * yt.py
 Example to fetch video transcription for a video and generate a summary with Groq API
 
+* prompts.md
+A collection of default prompts for testing with different AI Models
