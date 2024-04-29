@@ -86,5 +86,26 @@ URL: https://suno.com
 * Stable Diffusion - https://stability.ai
 * Copilot - https://copilot.microsoft.com
 * Google Gemini - https://gemini.google.com/app
+* Elevenlabs - https://elevenlabs.io
+* Groq - https://groq.com
 
+# List of files in this Repo
+
+* dlf_11labs.py
+Example how to get latest news from dlf and convert the text to speech with Elevenlabs
+
+* dlf_openai.py
+Example how to get latest news from dlf and convert the text to speech with OpenAI
+
+* example.png
+An example (AI generated) Picture to demonstrate Vision of AI
+
+* reddit.py
+An example to get latest posts from a subreddit and summarize them with Groq API
+
+* vision.py
+The example script that use the example.png to describe with AI what is seen on the picture
+
+* yt.py
+Example to fetch video transcription for a video and generate a summary with Groq API
 
