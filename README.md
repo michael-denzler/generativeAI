@@ -86,6 +86,7 @@ URL: https://suno.com
 
 # List of Providers
 
+* Huggin Face - https://huggingface.co
 * OpenAI - https://openai.com
 * Midjourney - https://www.midjourney.com
 * Stable Diffusion - https://stability.ai
