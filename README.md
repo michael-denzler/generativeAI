@@ -84,6 +84,12 @@ Create AI generated Music with Suno
 
 URL: https://suno.com
 
+* Udio (Web Service)
+
+AI generated Music
+
+URL: https://www.udio.com
+
 # List of Providers
 
 * Huggin Face - https://huggingface.co
